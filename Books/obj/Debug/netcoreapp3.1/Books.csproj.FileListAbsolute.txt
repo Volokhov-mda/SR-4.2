@@ -1,0 +1,15 @@
+/Users/nikitavolohov/Projects/Books/Books/bin/Debug/netcoreapp3.1/Books.deps.json
+/Users/nikitavolohov/Projects/Books/Books/bin/Debug/netcoreapp3.1/Books.runtimeconfig.json
+/Users/nikitavolohov/Projects/Books/Books/bin/Debug/netcoreapp3.1/Books.runtimeconfig.dev.json
+/Users/nikitavolohov/Projects/Books/Books/bin/Debug/netcoreapp3.1/Books.dll
+/Users/nikitavolohov/Projects/Books/Books/bin/Debug/netcoreapp3.1/Books.pdb
+/Users/nikitavolohov/Projects/Books/Books/obj/Debug/netcoreapp3.1/Books.csprojAssemblyReference.cache
+/Users/nikitavolohov/Projects/Books/Books/obj/Debug/netcoreapp3.1/Books.csproj.CoreCompileInputs.cache
+/Users/nikitavolohov/Projects/Books/Books/obj/Debug/netcoreapp3.1/Books.AssemblyInfoInputs.cache
+/Users/nikitavolohov/Projects/Books/Books/obj/Debug/netcoreapp3.1/Books.AssemblyInfo.cs
+/Users/nikitavolohov/Projects/Books/Books/obj/Debug/netcoreapp3.1/Books.dll
+/Users/nikitavolohov/Projects/Books/Books/obj/Debug/netcoreapp3.1/Books.pdb
+/Users/nikitavolohov/Projects/Books/Books/obj/Debug/netcoreapp3.1/Books.genruntimeconfig.cache
+/Users/nikitavolohov/Projects/Books/Books/bin/Debug/netcoreapp3.1/BooksTools.dll
+/Users/nikitavolohov/Projects/Books/Books/bin/Debug/netcoreapp3.1/BooksTools.pdb
+/Users/nikitavolohov/Projects/Books/Books/obj/Debug/netcoreapp3.1/Books.csproj.CopyComplete
