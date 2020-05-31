@@ -96,7 +96,6 @@ namespace Books
 
             // Обновление и запуск таймера.
             stopwatch = new Stopwatch();
-            stopwatch.Start();
 
             {
                 // Инициализация объекта с инструментами для работы с книгами.
