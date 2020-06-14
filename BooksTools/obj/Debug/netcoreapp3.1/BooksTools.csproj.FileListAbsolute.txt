@@ -1,0 +1,9 @@
+/Users/nikitavolohov/Projects/Books/BooksTools/obj/Debug/netcoreapp3.1/BooksTools.csprojAssemblyReference.cache
+/Users/nikitavolohov/Projects/Books/BooksTools/obj/Debug/netcoreapp3.1/BooksTools.csproj.CoreCompileInputs.cache
+/Users/nikitavolohov/Projects/Books/BooksTools/obj/Debug/netcoreapp3.1/BooksTools.AssemblyInfoInputs.cache
+/Users/nikitavolohov/Projects/Books/BooksTools/obj/Debug/netcoreapp3.1/BooksTools.AssemblyInfo.cs
+/Users/nikitavolohov/Projects/Books/BooksTools/bin/Debug/netcoreapp3.1/BooksTools.deps.json
+/Users/nikitavolohov/Projects/Books/BooksTools/bin/Debug/netcoreapp3.1/BooksTools.dll
+/Users/nikitavolohov/Projects/Books/BooksTools/bin/Debug/netcoreapp3.1/BooksTools.pdb
+/Users/nikitavolohov/Projects/Books/BooksTools/obj/Debug/netcoreapp3.1/BooksTools.dll
+/Users/nikitavolohov/Projects/Books/BooksTools/obj/Debug/netcoreapp3.1/BooksTools.pdb
